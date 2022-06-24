@@ -1,2 +1,2 @@
-notebooks/** linguist-vendored
-
+*.py linguist-language=Solidity 
+*.ipynb linguist-detectable=false
